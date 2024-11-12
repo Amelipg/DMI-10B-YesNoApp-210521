@@ -15,14 +15,14 @@ class ChatScreen extends StatelessWidget {
           padding:  EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://static.vecteezy.com/system/resources/thumbnails/001/993/889/small_2x/beautiful-latin-woman-avatar-character-icon-free-vector.jpg'),
+                'https://static.wixstatic.com/media/c14407_7e2c374ea7ba4b2abf7746aca4291973~mv2.jpg/v1/fill/w_640,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/c14407_7e2c374ea7ba4b2abf7746aca4291973~mv2.jpg'),
           ),
         ),
         title: Text('Ameli PG 🦋'),
         centerTitle: false,
       ),
       body: _ChatView(),
-    );
+    );         
   }
 }
 
