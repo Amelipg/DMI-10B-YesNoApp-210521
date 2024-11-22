@@ -10,11 +10,11 @@ Aplicación realizada en flutter para ispositivos Móviles, parte de la unidad 2
   </thead>
   <tbody>
     <tr>
-      <td width="50%" align="center"><img  align="center"  src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Captura%20de%20pantalla%202024-11-22%20140349.png?raw=true" alt="Captura 1" style="height: 400px;"></td>
+      <td width="50%" align="center"><img  align="center"  src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Captura%20de%20pantalla%202024-11-22%20140349.png" alt="Captura 1" style="height: 400px;"></td>
       <td>Practica 21 x6: En esta practica iniciamos el proyecto creando al primera pantalla, agregando una imagen y un titulo en la barra superior de la aplicación.</td>
     </tr>
     <tr>
-      <td width="50%" align="center"><img  alt="Mark streak" src="https://github.com/Adalid26Islas/DMI-10B-YesNoApp_210375/blob/main/img_evidence/Screenshot_2024-10-23-18-41-41-724_com.example.yes_no_app.jpg" alt="Captura 2" style="height: 400px;"></td>
+      <td width="50%" align="center"><img  alt="Mark streak" src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Imagen%20de%20WhatsApp%202024-11-22%20a%20las%2014.05.25_58a95529.jpg" alt="Captura 2" style="height: 400px;"></td>
       <td>  Practica 22 x7: En esta practica creamos una lista de elementos estaticos de los cuales solo se visualizan en la pantalla los indices, esto es para ir creando los mensajes que vamos a recibir.</td>
     </tr>
     <tr>
