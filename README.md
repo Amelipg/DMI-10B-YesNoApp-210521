@@ -22,7 +22,7 @@ Aplicación realizada en flutter para ispositivos Móviles, parte de la unidad 2
       <td>Practica 23 x10: En esta practica implemetamos de manera automatizada las respuestas del receptor de manera asincrona e imprimimos los mensajes en el ListView obligando el escroll hasta el final usando el metodo moveScrollBottom. Tambien creamos la caja de texto donde se van a escribir los mensajes que se van a enivar y la personalizamos agregando un icono.</td>
     </tr>
     <tr>
-      <td width="50%" align="center"><img  alt="Mark streak" src="https://github.com/Adalid26Islas/DMI-10B-YesNoApp_210375/blob/main/img_evidence/Screenshot_2024-10-26-16-20-11-905_com.example.yes_no_app.jpg" alt="Captura 4" style="height: 400px;"></td>
+      <td width="50%" align="center"><img  alt="Mark streak" src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Imagen%20de%20WhatsApp%202024-11-22%20a%20las%2014.05.41_323724ba.jpg" alt="Captura 4" style="height: 400px;"></td>
       <td>Practica 24 x: En esta practica creamos la infraestrutura e instalamos la libreria que nos hara posible realizar las peticiones que entran y salen en la aplicación. Configuramos un mensaje de espera, cuando se hace la petición el mensaje aparece, una vez que         el API responde de manera correcta el mensaje desaparece y se muestra en pantalla el GIFque es enviado por el API. Cabe resaltar que el API retorna una respuesta cuando el mensaje enviado termina con un signo de interrogación (?)</td>
     </tr>
   </tbody>
