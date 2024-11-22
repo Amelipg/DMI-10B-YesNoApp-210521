@@ -18,7 +18,7 @@ Aplicación realizada en flutter para ispositivos Móviles, parte de la unidad 2
       <td>  Practica 22 x7: En esta practica creamos una lista de elementos estaticos de los cuales solo se visualizan en la pantalla los indices, esto es para ir creando los mensajes que vamos a recibir.</td>
     </tr>
     <tr>
-      <td width="50%" align="center"><img  align="center"  src="https://github.com/Adalid26Islas/DMI-10B-YesNoApp_210375/blob/main/img_evidence/Screenshot_2024-10-26-12-13-58-667_com.example.yes_no_app.jpg" alt="Captura 3" style="height: 400px;"></td>
+      <td width="50%" align="center"><img  align="center"  src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Imagen%20de%20WhatsApp%202024-11-22%20a%20las%2014.05.41_f336de2b.jpg" alt="Captura 3" style="height: 400px;"></td>
       <td>Practica 23 x10: En esta practica implemetamos de manera automatizada las respuestas del receptor de manera asincrona e imprimimos los mensajes en el ListView obligando el escroll hasta el final usando el metodo moveScrollBottom. Tambien creamos la caja de texto donde se van a escribir los mensajes que se van a enivar y la personalizamos agregando un icono.</td>
     </tr>
     <tr>
