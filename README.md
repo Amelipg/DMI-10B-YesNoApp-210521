@@ -11,7 +11,8 @@ Aplicación realizada en flutter para ispositivos Móviles, parte de la unidad 2
   <tbody>
     <tr>
       <td width="50%" align="center"><img  align="center"  src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Captura%20de%20pantalla%202024-11-22%20140349.png" alt="Captura 1" style="height: 400px;"></td>
-      <td>Practica 21 x6: En esta practica iniciamos el proyecto creando al primera pantalla, agregando una imagen y un titulo en la barra superior de la aplicación.</td>
+      <td>Practica 21 x6: 
+        En esta práctica comenzamos el proyecto desarrollando la pantalla inicial, añadiendo una imagen y un título en la parte superior de la aplicación.</td>
     </tr>
     <tr>
       <td width="50%" align="center"><img  alt="Mark streak" src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Imagen%20de%20WhatsApp%202024-11-22%20a%20las%2014.05.25_58a95529.jpg" alt="Captura 2" style="height: 400px;"></td>
