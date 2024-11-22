@@ -10,7 +10,7 @@ Aplicación realizada en flutter para ispositivos Móviles, parte de la unidad 2
   </thead>
   <tbody>
     <tr>
-      <td width="50%" align="center"><img  align="center"  src="https://github.com/Adalid26Islas/DMI-10B-YesNoApp_210375/blob/main/img_evidence/Screenshot_2024-10-23-17-09-23-067_com.example.yes_no_app.jpg" alt="Captura 1" style="height: 400px;"></td>
+      <td width="50%" align="center"><img  align="center"  src="https://github.com/Amelipg/DMI-10B-YesNoApp-210521/blob/main/Imagenes/Captura%20de%20pantalla%202024-11-22%20140349.png?raw=true" alt="Captura 1" style="height: 400px;"></td>
       <td>Practica 21 x6: En esta practica iniciamos el proyecto creando al primera pantalla, agregando una imagen y un titulo en la barra superior de la aplicación.</td>
     </tr>
     <tr>
